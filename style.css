@@ -19,18 +19,21 @@ li:hover{
     transition: all;
     
 } 
-img{
+img1{
     padding: 150px;
     
     margin-left: 25%;
     margin-bottom: 0;
     border: 2px solid white; 
     
-    
-    
-    
+
 }
 div{
     background-color: white
     
 }
+.art{
+text-align: end;
+
+}
+
