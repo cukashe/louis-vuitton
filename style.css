@@ -16,5 +16,21 @@ li:hover{
    transition: 1s;
     border-bottom: 3px solid brown;
     text-decoration: none;
+    transition: all;
+    
+} 
+img{
+    padding: 150px;
+    
+    margin-left: 25%;
+    margin-bottom: 0;
+    border: 2px solid white; 
+    
+    
+    
+    
+}
+div{
+    background-color: white
     
 }
