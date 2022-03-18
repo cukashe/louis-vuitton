@@ -37,4 +37,23 @@ div{
 text-align: end;
 
 }
+/* styles for world img */
+.img5{
+  margin-left: 250px;
+  margin-right: auto;
+  display: block;
+}
+/* spring-summer */
+.summer{
+    text-align: end;
+}
+.a{
+    width: 600px;
+    height: 400px;
 
+}
+.b{
+    width: 370px;
+    height: 400px;
+    padding: 5px;
+}
