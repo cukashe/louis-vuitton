@@ -19,8 +19,9 @@ li:hover{
     transition: all;
     
 } 
-img1{
+.img1{
     padding: 150px;
+    
     
     margin-left: 25%;
     margin-bottom: 0;
